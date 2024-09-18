@@ -1,4 +1,4 @@
-public class Main {
+public class computingOperations {
     public static void main(String[] args){
 
         System.out.println("Сложение,вычитание, деление и умножение");
