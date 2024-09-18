@@ -7,6 +7,7 @@ public class variables {
     public static void task1 () {
         System.out.println("Задача 1");
 
+
         byte a = 120;
         System.out.println(a);
         short b = 31555;
